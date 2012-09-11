@@ -1,6 +1,12 @@
 // You custom settings file to override Foundation defaults
 @import "settings";
 
+//  Let's import a reset.  You gots choices, yo.
+
+// 	@import "compass/reset";
+//  -- or --
+//  @import "normalize.scss";
+
 // Comment out this import if you are customizing you imports below
 @import "foundation";
 
@@ -45,8 +51,3 @@
 // @import "foundation/components/modules/offcanvas";
 
 
-//  Let's import a reset.  You gots choices, yo.
-
-// 	@import "compass/reset";
-//  -- or --
-//  @import "normalize.scss";
